@@ -1,0 +1,22 @@
+{
+  "name": "nod-auth",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "connect-mssql": "^1.5.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "^2.5.9",
+    "express": "~4.16.0",
+    "express-session": "^1.15.6",
+    "http-errors": "~1.6.2",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.0",
+    "mssql": "^4.1.0",
+    "mysql": "^2.15.0"
+  }
+}
